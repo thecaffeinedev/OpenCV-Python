@@ -84,3 +84,27 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
  * Edge Detection & Image Gradients
  * Perspective & Affine Transforms
  * Fun Stuff : Live Webcam Sketch of yourself
+ 
+***Image Segmentation (Notebook 3.1-4.4)***
+ * Understanding contours
+ * Sorting contours by size or left to right
+ * Approximating contours & finding their convex hull
+ * Matching Contour Shapes
+ * Fun Stuff – Identifying Shapes
+ * Line Detection
+ * Circle Detection
+ * Blob Detection
+ * Fun Stuff – Counting Circles and Ellipses
+ 
+***Object Detection (Notebook 5.1-5.5)***
+ * Object Detection using Template Matching
+ * Fun Stuff – Finding Waldo
+ * Finding Corners
+ * SIFT, SURF, FAST, BREIF & ORB
+ * Fun Stuff – Object Detection using Features
+ * Histogram of Gradients (HoG) as a Descriptor
+ 
+***Face, People & Car Detection (Notebook 6.1-6.2)***
+ * Understanding HAAR Cascade Classifiers
+ * Face & Eye Detection
+ * Fun Stuff - Car Detection & Pedestrian (Body) Detection
