@@ -2,7 +2,7 @@
 
 ***This repository contains basic OpenCV tutorials for those who wants to get started with it.***
 
-* Clone or Download the repo.
+* Clone or Download this repo.
 ------
 ***Notes***
 Computer Vision is a cutting edge field of Computer Science that aims to enable computers to understand what is being seen in an image.
@@ -41,4 +41,21 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
  * Face, People & Car Detection
  * Some Fun Projects
   
+***Prerequisites***
+ * Basic programming is useful, but not needed I’ll walk you through most of the code. Exposure to Numpy would be helpful.
+ * High School Level Math
+ * Laptop Webcam
+ * Python 3.X
+ * OpenCV 3.4.X or4.X
+ ------
+***Python & OpenCV Windows Installation***
+ * STEP 1 – Download & Install Anaconda Python Package Go to: https://www.anaconda.com/download
+ * Select appropriate version 3.6
+ * To Test – Go to windows command prompt and type: • jupyter notebook
+ * STEP 2 -OpenCV Installation 
+ * Open command prompt and type: pip install opencv-python
+
+
   
+
+
