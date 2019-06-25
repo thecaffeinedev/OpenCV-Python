@@ -76,3 +76,11 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
  * Image Pyramids
  * Cropping
  * Arithmetic Operations
+ * Bitwise Operations and Masking
+ * Convolutions & Blurring
+ * Sharpening
+ * Thresholding and Binarization
+ * Dilation, erosion, opening and closing
+ * Edge Detection & Image Gradients
+ * Perspective & Affine Transforms
+ * Fun Stuff : Live Webcam Sketch of yourself
