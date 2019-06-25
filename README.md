@@ -54,8 +54,25 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
  * To Test – Go to windows command prompt and type: • jupyter notebook
  * STEP 2 -OpenCV Installation 
  * Open command prompt and type: pip install opencv-python
+ ------
+***Notebook Details***
 
+***Basics of Computer Vision & OpenCV (Notebook 0-1.4)***
+ * What are Images?
+ * Image formation
+ * Storing images on computers
+ * Getting Started with OpenCV: reading, writing and displaying images
+ * Gray scaling
+ * Color Spaces
+ * Histograms
+ * Drawing images
+* Basics of Computer Vision & OpenCV (Notebook 0-1.4)
 
-  
-
-
+***Image Manipulations (Notebook 2.0-2..4)***
+ * Transformations, affine and non affine
+ * Translations
+ * Rotations
+ * Scaling, re-sizing and interpolations
+ * Image Pyramids
+ * Cropping
+ * Arithmetic Operations
