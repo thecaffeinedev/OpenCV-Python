@@ -32,7 +32,13 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
   * Python is one of the easiest languages for beginners.
   * It is extremely powerful for data science and machine learning applications.
   * It stores images in numpy arrays which allows us to do some very powerful operations quite easily.
-  * 
-  
+------
+***What's in the Notebooks***
+ * Basics of Computer Vision & OpenCV
+ * Image Manipulations
+ * Image Segmentation
+ * Object Detection
+ * Face, People & Car Detection
+ * Some Fun Projects
   
   
