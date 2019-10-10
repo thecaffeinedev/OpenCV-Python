@@ -4,7 +4,7 @@
 
 * Clone or Download this repo.
 ------
-***Notes***
+***Notes For References***
 Computer Vision is a cutting edge field of Computer Science that aims to enable computers to understand what is being seen in an image.
 
 * Computer Vision is a Challenging!
@@ -13,7 +13,7 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
   * Viewpoint variations
   * Changing Lighting
   * Scaling
-  * Non-rigid deformations
+  * Non-rigid Deformations
   * Occlusion
   * Clutter
   * Object class variations
@@ -46,7 +46,7 @@ Computer Vision is a cutting edge field of Computer Science that aims to enable 
  * High School Level Math
  * Laptop Webcam
  * Python 3.X
- * OpenCV 3.4.X or4.X
+ * OpenCV 3.4.X or 4.X
  ------
 ***Python & OpenCV Windows Installation***
  * STEP 1 – Download & Install Anaconda Python Package Go to: https://www.anaconda.com/download
